@@ -10,7 +10,7 @@
 
 **Computer Engineering Student | Aspiring Full Stack Developer (.NET + Vue.js)**
 
-<img src="https://komarev.com/ghpvc/?username=mauriziorq24-bot&label=Profile%20views&color=512BD4&style=flat-square" alt="Profile views" />
+
 
 </div>
 
